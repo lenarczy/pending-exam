@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/PendingExam.iml" filepath="$PROJECT_DIR$/PendingExam.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pending-exam.iml" filepath="$PROJECT_DIR$/pending-exam.iml" />
     </modules>
   </component>
 </project>
