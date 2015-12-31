@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PendingExam</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_status">Status</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_exam_info">ExamInfo</string>
+    <string name="exam_info_msg">Your exam is really close.\nIt remains only %s days</string>
+    <string name="notification_title">Exam is coming</string>
+    <string name="notification_msg">Your exam is really close</string>
+    <string name="drawer_open">open</string>
+    <string name="drawer_close">close</string>
+    <string name="title_activity_base">BaseActivity</string>
+</resources>
